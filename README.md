@@ -1,2 +1,9 @@
 # Gregorian-Calendar
-Prints out a Gregorian calendar for a given year.
+Description:  
+The program builds the Gregorian calendar using the year, language (English / French), and banner indent values from user input.  
+
+To run:  
+gnatmake cal.adb  
+  
+To execute:  
+cal  
