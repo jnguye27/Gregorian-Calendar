@@ -4,6 +4,3 @@ The program builds the Gregorian calendar using the year, language (English / Fr
 
 To run:  
 gnatmake cal.adb  
-  
-To execute:  
-cal  
